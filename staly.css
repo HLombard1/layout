@@ -43,3 +43,8 @@ body {
 .baixo2{
     padding-bottom: 170px;
 }
+
+.quadrado2 {
+    background-color: blue;
+    padding: 50px;
+}
